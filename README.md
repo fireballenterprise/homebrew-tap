@@ -5,7 +5,7 @@ Install Fireball Enterprise apps with [Homebrew](https://brew.sh).
 ```sh
 brew tap fireballenterprise/tap
 brew install fireball-wrangler                    # Wrangler terminal UI + headless host
-brew install --cask fireball-wrangler-desktop     # Wrangler for macOS (full app)
+brew install --cask fireball-wrangler-app         # Wrangler for macOS (full app)
 ```
 
 | Folder | Holds |
