@@ -1,0 +1,33 @@
+Fireball Enterprise Proprietary License
+
+Copyright (c) 2026 Fireball Enterprise. All rights reserved.
+
+1. What this repository is. This repository holds Homebrew recipe files (formulas and
+   casks) that download and install Fireball Enterprise software. The software itself is
+   not in this repository and is not open source.
+
+2. Free to use, not open source. Fireball Enterprise software installed through these
+   recipes is licensed, not sold. You may install and use it free of charge, subject to
+   the Fireball Enterprise Terms at https://fireballenterprise.com/terms. Paid plans and
+   features are governed by those Terms.
+
+3. What you may not do. Except where the law expressly allows it, you may not copy,
+   modify, translate, reverse engineer, decompile or disassemble the software; create
+   derivative works of it; or sell, rent, lease, sublicense, redistribute or publish it
+   or these recipe files, in whole or in part. Installing the software through Homebrew
+   for your own use is allowed.
+
+4. Ownership. Fireball Enterprise and its licensors keep all rights, title and interest
+   in the software, these recipe files, and the Fireball names and logos. No rights are
+   granted except those stated here. Viewing this public repository grants no license
+   to the software's source code.
+
+5. No warranty. The software and these files are provided "as is", without warranty of
+   any kind, express or implied, including merchantability, fitness for a particular
+   purpose and non-infringement. To the fullest extent the law allows, Fireball
+   Enterprise is not liable for any damages arising from their use.
+
+6. Termination. This license ends automatically if you break it. When it ends, you must
+   stop using and delete the software.
+
+Questions: https://fireballenterprise.com
