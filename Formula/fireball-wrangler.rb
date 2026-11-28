@@ -10,22 +10,22 @@ class FireballWrangler < Formula
 
   on_macos do
     on_arm do
-      url "https://fireballwrangler.com/downloads/tui/fireball-wrangler-3.6.0-macos-arm64.tar.gz"
+      url "https://downloads.fireballenterprise.com/wrangler/cli/fireball-wrangler-3.6.0-macos-arm64.tar.gz"
       sha256 "5f16a4a17aa2b348f80c872fed8dca3ff4fa2257499ee560819951dd77a9c702"
     end
     on_intel do
-      url "https://fireballwrangler.com/downloads/tui/fireball-wrangler-3.6.0-macos-x86_64.tar.gz"
+      url "https://downloads.fireballenterprise.com/wrangler/cli/fireball-wrangler-3.6.0-macos-x86_64.tar.gz"
       sha256 "58ec7e192f94e02969685d080d94faba22b67c3bc970a9cd49e51cbc6f94311f"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://fireballwrangler.com/downloads/tui/fireball-wrangler-3.6.0-linux-arm64.tar.gz"
+      url "https://downloads.fireballenterprise.com/wrangler/cli/fireball-wrangler-3.6.0-linux-arm64.tar.gz"
       sha256 "25e85972f9c4030c49db8eb671ea24564a557b9601254bd1a919d8a001de1ee2"
     end
     on_intel do
-      url "https://fireballwrangler.com/downloads/tui/fireball-wrangler-3.6.0-linux-x86_64.tar.gz"
+      url "https://downloads.fireballenterprise.com/wrangler/cli/fireball-wrangler-3.6.0-linux-x86_64.tar.gz"
       sha256 "29e39287ad77956a0d7081cdf6dea954ae13a89d2251c97d82adc812f85440f7"
     end
   end
